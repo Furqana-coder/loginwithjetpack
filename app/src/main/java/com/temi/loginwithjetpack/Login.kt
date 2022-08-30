@@ -83,8 +83,6 @@ fun LoginPage(navController: NavHostController) {
             }
         }
 
-
-
         Spacer(modifier = Modifier.height(20.dp))
         ClickableText(
             text = AnnotatedString("Forgot password?"),
